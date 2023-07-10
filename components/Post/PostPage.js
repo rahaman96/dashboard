@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react'
 import axios from 'axios'
-const Post = () => {
+const PostPage = () => {
     const [myData, setMyData] = useState([])
     const [count, setCount] = useState(0)
     const decrement = () => {
@@ -63,4 +63,4 @@ const Post = () => {
     )
 }
 
-export default Post
+export default PostPage
