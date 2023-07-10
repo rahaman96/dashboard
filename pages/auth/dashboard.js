@@ -1,4 +1,3 @@
-import Post from '@/components/Post/post'
 import Dashboard from '@/components/dashboard/Dashboard'
 import React from 'react'
 
